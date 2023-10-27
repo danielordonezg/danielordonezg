@@ -1,5 +1,5 @@
-[![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Daniel Gomez<sub style="font-size: 15px; font-style: italic">, a programming enthusiast.</sub><br> [![LinkedIn](https://img.shields.io/badge/Daniel%20Gomez-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://linkedin.com/in/jeffdevx](https://www.linkedin.com/in/daniel-alexander-gomez-ordo%C3%B1ez-055b201aa/)](https://www.linkedin.com/in/daniel-alexander-gomez-ordo%C3%B1ez-055b201aa/))</b>
+[![](https://visitcount.itsvg.in/api?id=danielordonezg&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Daniel Gomez<br> [![LinkedIn](https://img.shields.io/badge/Daniel%20Gomez-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://linkedin.com/in/jeffdevx](https://www.linkedin.com/in/daniel-alexander-gomez-ordo%C3%B1ez-055b201aa/)](https://www.linkedin.com/in/daniel-alexander-gomez-ordo%C3%B1ez-055b201aa/))</b>
 
 ⚡Engineer of systems and telecommunications. Focused on web, mobile development and artificial intelligence. Interested in innovation and technology to create sustainable solutions.<br>
 
