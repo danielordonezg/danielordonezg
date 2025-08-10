@@ -29,4 +29,4 @@ Apasionado por construir productos escalables, seguros y de alto impacto.
 
 ---
 
-📫 **Let's Connect** → [LinkedIn](https://www.linkedin.com/in/daniel-alexander-gomez-ordo%C3%B1ez-055b201aa/) | [Portfolio](#) | [Email](mailto:tuemail)
+📫 **Let's Connect** → [LinkedIn](https://www.linkedin.com/in/daniel-alexander-gomez-ordo%C3%B1ez-055b201aa/) | [Portfolio](#) | [Email](mailto:dgomez.new@gmail.com)
