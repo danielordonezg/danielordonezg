@@ -40,16 +40,15 @@ I have architected and scaled platforms serving **800K+ users**, optimized deplo
 
 ## 🚀 Featured Projects
 
-### **Future of Work Platform** (Coally)  
+### **Future of Work Platform**
 Full-stack microservices architecture (Next.js + Node.js/NestJS) deployed on AWS ECS/Lambda/RDS, serving **800K+ users**.  
 **Impact:** +50% deployment speed, -75% manual release steps.  
-[🔗 LinkedIn Post](#) | [🔗 Demo](#)
 
-### **Fintech Mobile App** (Blossom)  
+### **Fintech Mobile App**
 React Native + Express/Node.js, secure APIs with JWT/OAuth, launched for **5+ U.S. credit unions**.  
 **Impact:** -30% bundle size, -25% load times.  
 
-### **Crypto Trading APIs** (Scrummers)  
+### **Crypto Trading APIs**
 Node.js/NestJS with MySQL/TypeORM and MongoDB, deployed on AWS ECS/DigitalOcean.  
 **Impact:** Full OWASP-aligned security hardening, reduced API abuse risk.
 
