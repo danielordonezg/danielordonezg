@@ -14,17 +14,6 @@ Apasionado por construir productos escalables, seguros y de alto impacto.
 
 ---
 
-## 🚀 Featured Projects
-### Plataforma de Empleabilidad Inteligente
-Escalada a +800K usuarios • Next.js, NestJS, AWS  
-[Ver repositorio](#) | [Demo](#)
-
-### Fintech Mobile para Credit Unions
-React Native, Express, JWT/OAuth — Reducción de bundle (-30%)  
-[Ver repositorio](#)
-
----
-
 ## 📜 Certifications & Achievements
 - 🎓 Scrum Master
 - 🛡️ Lead Cybersecurity
