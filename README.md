@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Daniel Gomez  
 [![LinkedIn](https://img.shields.io/badge/Daniel%20Gomez-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alexander-gomez-ordo%C3%B1ez-055b201aa/)  
-🚀 **Senior Full Stack Developer | Technical Leader** — 5+ years building scalable solutions with **Next.js, NestJS, AWS**, and microservices architectures.
+🚀 **Senior Full Stack Developer | Technical Leader** — 8+ years building scalable solutions with **Next.js, NestJS, AWS**, and microservices architectures.
 
 ---
 
