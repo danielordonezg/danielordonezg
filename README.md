@@ -9,7 +9,7 @@
 ## 💡 About Me
 Systems and Telecommunications Engineer with extensive experience in **web and mobile development**, **cloud architecture**, and **technical leadership**.  
 
-I have architected and scaled platforms serving **800K+ users**, optimized deployments using **CI/CD and Terraform** (-75% manual release steps, +50% time-to-production), and improved code quality (-40% production bugs, +85% coverage).
+I have architected and scaled platforms serving **3M+ users**, optimized deployments using **CI/CD and Terraform** (-75% manual release steps, +50% time-to-production), and improved code quality (-40% production bugs, +85% coverage).
 
 **Highlights:**
 - CTO of a multi-country “Future of Work” platform.
